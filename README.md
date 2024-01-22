@@ -14,3 +14,4 @@ Here are some ideas to get you started:
       -- Creativity
 
       -- Coding
+![It's Me]{profile.png}
