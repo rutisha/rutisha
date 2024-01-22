@@ -6,7 +6,7 @@
 
 🤔 I like to learn new things
 
-My favourite search engine [Google](google.com)
+My favourite search engine [Google](https://www.google.com/))
   
 
 😄 Skills: ...
