@@ -19,4 +19,4 @@ My favourite search engine [Google](https://www.google.com/)
   
 ![It's Me](profile.png)
 
-Hi..[Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
+![Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
