@@ -2,9 +2,10 @@
 
 🔭 My Name: Rutisha Patel
 
-🌱 I’m currently learning Web development at Humber College
+It's Me...
+![Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
 
-🤔 I like to learn new things
+🌱 I’m currently learning Web development at Humber College. I like to learn new things
 
 My favourite search engine [Google](https://www.google.com/)
   
@@ -17,4 +18,4 @@ My favourite search engine [Google](https://www.google.com/)
 
       -- Coding
 
-It's Me...![Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
+
