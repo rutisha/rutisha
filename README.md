@@ -17,4 +17,4 @@ My favourite search engine [Google](https://www.google.com/)
 
       -- Coding
 
-It's Me...[Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
+It's Me...![Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
