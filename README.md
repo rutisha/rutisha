@@ -16,7 +16,5 @@ My favourite search engine [Google](https://www.google.com/)
       -- Creativity
 
       -- Coding
-  
-![It's Me](profile.png)
 
-![Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
+It's Me...[Me](https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif)
