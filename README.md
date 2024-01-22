@@ -5,6 +5,8 @@
 🌱 I’m currently learning Web development at Humber College
 
 🤔 I like to learn new things
+
+My favourite search engine [Google](google.com)
   
 
 😄 Skills: ...
